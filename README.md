@@ -5,6 +5,8 @@ This is a discord ddos bot that utilises ddos apis to send attacks via commands!
 
 This bot has its own method renaming (naming a method on the bot "UDP" for example but it sending an attack using "TCP" on your api). It has maxtime and minimum time and channel ids for moderating it.
 
+Also, the api in this is old and inactive. I didn't replace all set ids and values to "REPLACE THIS", hence why I mentioned that if you are clueless, do not use this as it will not benefit you. It can definitely be improved and it is not something I imrpoved a lot, it was my first javascript project too. 
+
 I take no responsibility how you use this.
 
 Drqgs#0911 FOR SUPPORT.
