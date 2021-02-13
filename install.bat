@@ -1,1 +1,1 @@
-npm installl .
+npm install .
