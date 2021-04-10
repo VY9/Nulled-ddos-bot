@@ -11,4 +11,4 @@ Also, the api in this is old and inactive. I didn't replace all set ids and valu
 # Educational Purposes Only
 # I take no responsibility how you use this.
 # Do NOT take credit for this.
-# Drqgs#8330 FOR SUPPORT. (if i feel like it)
+# Drqgs#1337 FOR SUPPORT. (if i feel like it)
