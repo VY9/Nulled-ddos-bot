@@ -7,6 +7,7 @@ This bot has its own method renaming (naming a method on the bot "UDP" for examp
 
 Also, the api in this is old and inactive. I didn't replace all set ids and values to "REPLACE THIS", hence why I mentioned that if you are clueless, do not use this as it will not benefit you. It can definitely be improved and it is not something I updated consistently, it was my first javascript project too. 
 
+Lastly, delete the comments in the config.json before using it, I have had over 10 people ask me about that so far.
 
 # Educational Purposes Only
 # I take no responsibility how you use this.
