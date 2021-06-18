@@ -12,4 +12,4 @@ Lastly, delete the comments in the config.json before using it, I have had over 
 # Educational Purposes Only
 # I take no responsibility how you use this.
 # Do NOT take credit for this.
-# Drqgs#1337 FOR SUPPORT. (if i feel like it)
+# NO SUPPORT. (icba)
